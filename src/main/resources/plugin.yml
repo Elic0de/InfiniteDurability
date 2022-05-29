@@ -1,0 +1,5 @@
+name: InfiniteDurability
+version: ${project.version}
+main: com.github.elic0de.infinitedurability.InfiniteDurability
+api-version: 1.18
+authors: [ Elic0de ]
